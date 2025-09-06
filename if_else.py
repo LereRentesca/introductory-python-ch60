@@ -9,7 +9,7 @@
 # Greater than or equal: a >= b
 age = 24
 
-if age < 100:
+if age < 100    :
     if age < 21:
         print("You're a minor without access!")
     else:
